@@ -8,6 +8,8 @@
 * [Iterative](#iterative)
 * [Cite the Paper](#paper)
 
+[![DOI](https://zenodo.org/badge/638928249.svg)](https://zenodo.org/badge/latestdoi/638928249)
+
 
 ## <a name="repo"></a> The Repository ([top](#top))
 
